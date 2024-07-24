@@ -3,8 +3,7 @@
 
 # NBA Analysis Dashboard
 
-![NBA Dashboard](![NBA_DASHBOARD_SCREENSHOT](https://github.com/user-attachments/assets/5801b33f-4b13-4cfe-bcdb-5391975eaaa4)
-)
+![NBA Dashboard](https://github.com/username/repo-name/blob/main/path/to/NBA_DASHBOARD_SCREENSHOT.png)
 
 This Power BI project provides an in-depth analysis of NBA player performance metrics based on data collected from draft combines. The dashboard visualizes various player attributes and comparisons, helping to identify top performers in different categories.
 
@@ -54,4 +53,3 @@ To use this Power BI dashboard:
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or additional features, please feel free to submit a pull request or open an issue in the repository.
-
